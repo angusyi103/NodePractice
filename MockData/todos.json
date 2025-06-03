@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project proposal",
+    "description": "Draft the initial project proposal with timeline and budget",
+    "timestamp": "2023-12-10T09:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Review pull requests",
+    "description": "Review and merge open pull requests for the backend service",
+    "timestamp": "2023-12-08T14:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Update documentation",
+    "description": "Update API documentation with new endpoints",
+    "timestamp": "2023-12-11T11:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Fix login bug",
+    "description": "Investigate and fix the login issue reported on production",
+    "timestamp": "2023-12-09T16:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Prepare for team meeting",
+    "description": "Create slides for the weekly team meeting",
+    "timestamp": "2023-12-10T13:00:00Z"
+  }
+]
